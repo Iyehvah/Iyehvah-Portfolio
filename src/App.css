@@ -87,6 +87,11 @@ code:after {
   text-align: center;
   border-bottom: 2px solid black;
 }
+.home-div {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
 .headline {
   width: 50%;
   margin: 0 auto;
@@ -114,4 +119,9 @@ ul {
 }
 h4 {
   color: #314852;
+}
+
+.about-container {
+  width: 70%;
+  margin: 0 auto;
 }
