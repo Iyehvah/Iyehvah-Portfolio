@@ -98,18 +98,23 @@ code:after {
   color: #314852;
 }
 
+h2 {
+  font-size: 1.3rem;
+}
+
 .xp-container {
   width: 80%;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  padding-bottom: 1%;
 }
 .box {
   width: 30%;
   margin: 1%;
   border: 1px solid black;
-  color: #314852;
+  color: black;
   background-color: #7CA3A1;
   border-radius: 5%;
 }
@@ -118,10 +123,35 @@ ul {
   list-style-type: none;
 }
 h4 {
-  color: #314852;
+  color: black;
 }
 
 .about-container {
   width: 70%;
   margin: 0 auto;
+}
+
+.i-can-provide{
+  border-top: 2px solid black;
+  width: 80%;
+  margin: 1% auto;
+}
+
+.provideContainer {
+  width: 70%;
+  margin: 0 auto;
+}
+.provideContainer p {
+  font-size: 1.3rem;
+}
+
+.footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  max-width: 80%;
+  margin: 0 auto;
+  background-color: #32675C;
 }

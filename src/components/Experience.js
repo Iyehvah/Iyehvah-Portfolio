@@ -18,6 +18,7 @@ const Experience = () => {
           <ul>
             <li>Flex-box</li>
             <li>Media Queries</li>
+            <li>Basic Styling Methods</li>
           </ul>
         </div>
 
@@ -26,6 +27,7 @@ const Experience = () => {
           <ul>
             <li>Array Methods</li>
             <li>Constructors/Classes</li>
+            <li>For Loops</li>
           </ul>
         </div>
 
@@ -35,6 +37,7 @@ const Experience = () => {
             <li>Components</li>
             <li>State Management</li>
             <li>Props</li>
+            <li>Making Axios Calls via GET/PUT/POST/DELETE</li>
           </ul>
         </div>
 
@@ -51,6 +54,12 @@ const Experience = () => {
             <li>Actions</li>
             <li>Reducers</li>
           </ul>
+        </div>
+      </div>
+      <div className="i-can-provide">
+        <h2>What I Can Provide</h2>
+        <div className="provideContainer">
+          <p>For those looking for landing pages, single page website, and multipage websites for your growing business or if you're just looking to have your own website you have come to the right place.</p>
         </div>
       </div>
     </div>

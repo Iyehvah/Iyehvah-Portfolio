@@ -1,10 +1,10 @@
 import React from 'react';
-import ProfilePicture from "../images/Prof-Pic2.jpg"
+import profpic from "../images/profpic.PNG";
 
 const Home = () => {
     return (
         <div className="home-container">
-                <span className="image fit"><img className="hvr-grow" src={ProfilePicture} /></span>
+                <span className="image fit"><img className="hvr-grow" src={profpic} /></span>
                 <div className="headline"><h3>Front-End Web Developer looking to better the world one step at a time.</h3></div>
         </div>
     )
